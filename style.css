@@ -1,0 +1,19 @@
+body{
+
+    background-color:#0707077c;
+}
+
+#cuadro{
+    background-color: rgba(175, 185, 178, 0.486);
+display: none;
+}
+
+
+
+#carga{
+ background-color: rgba(185, 194, 187, 0.486);
+ position: absolute;
+ left: 50%;
+ top: 50%;
+ transform: translate(-50%, -50%)
+    }
